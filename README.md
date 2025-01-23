@@ -88,3 +88,4 @@ License
 Just don't steal my code please...
 
 
+# vocabulle-autoclick
